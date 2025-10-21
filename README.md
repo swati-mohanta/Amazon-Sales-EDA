@@ -41,9 +41,3 @@ The analysis includes data cleaning, visualization, and automatic profiling usin
 2. Open it locally in your browser to explore the full interactive report.
 
 ---
-
-### ✨ Author
-
-**Swati Mohanta**
-
----
